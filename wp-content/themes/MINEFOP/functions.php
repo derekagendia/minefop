@@ -33,6 +33,8 @@ register_nav_menus(
 
     array(
         'top-menu' =>__('Top Menu', 'theme'),
+        'dropdown-menu' =>__('Dropdown Menu', 'theme'),
     )
+
      
     );

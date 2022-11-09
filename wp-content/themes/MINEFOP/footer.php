@@ -3,7 +3,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <ul class="list-unstyled">
-                        <img src="./assets/img/242715262_222822269883186_7487174932910845624_n 1 (1).png" class="list-unstyled">
+                        <img src="<?php bloginfo('template_directory');?>/assets/img/242715262_222822269883186_7487174932910845624_n 1 (1).png" class="list-unstyled">
                         <li class="text-white">Address du MINEFOP, yaounde, Cameroon<br> 
                             BP: 12345</li>
                         <li class="text-white">Tel: </li>

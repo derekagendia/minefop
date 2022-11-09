@@ -24,21 +24,21 @@
                         </div>
                         <div class="carousel-inner">
                           <div class="carousel-item active">
-                            <img src="./assets/img/convention-gicam-cfps_1000x500_20210917162731 1.png" class="d-block w-100" alt="...">
+                            <img src="<?php bloginfo('template_directory');?>/assets/img/convention-gicam-cfps_1000x500_20210917162731 1.png" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block">
                               <h2 class="display-3 fw-bold">Postulez pour des bourses qui vous permettent de réaliser vos objectifs de carrière</h2>
                               <p> <a class="btn btn-warning fw-bold" href="#">S’enregistré</a></p>
                             </div>
                           </div>
                           <div class="carousel-item">
-                            <img src="./assets/img/convention-gicam-cfps_1000x500_20210917162731 1.png" class="d-block w-100" alt="...">
+                            <img src="<?php bloginfo('template_directory');?>/assets/img/convention-gicam-cfps_1000x500_20210917162731 1.png" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block">
                                 <h2 class="display-3 fw-bold">Postulez pour des bourses qui vous permettent de réaliser vos objectifs de 
                               <p> <a class="btn btn-warning fw-bold" href="#">S’enregistré</a></p>
                             </div>
                           </div>
                           <div class="carousel-item">
-                            <img src="./assets/img/convention-gicam-cfps_1000x500_20210917162731 1.png" class="d-block w-100" alt="...">
+                            <img src="<?php bloginfo('template_directory');?>/assets/img/convention-gicam-cfps_1000x500_20210917162731 1.png" class="d-block w-100" alt="...">
                             <div class="carousel-caption d-none d-md-block">
                                 <h2 class="display-3 fw-bold">Postulez pour des bourses qui vous permettent de réaliser vos objectifs de 
                               <p> <a class="btn btn-warning fw-bold" href="#">S’enregistré</a></p>
@@ -91,7 +91,7 @@
                     <p class="lead">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus libero voluptatum animi incidunt doloremque quibusdam provident aut consequuntur delectus velit nostrum, totam accusantium repellendus magnam quasi, aperiam enim optio amet? Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus libero voluptatum animi incidunt doloremque quibusdam provident aut consequuntur delectus velit nostrum, totam accusantium repellendus magnam quasi, aperiam enim optio amet?</p>
                 </div>
                 <div class="col-md-6">
-                    <img src="./assets/img/Group79.png" class="img-fluid">
+                    <img src="<?php bloginfo('template_directory');?>/assets/img/Group79.png" class="img-fluid">
                 </div>
             </div>
         </div>
@@ -106,8 +106,10 @@
                     </div>
                 </div>
             <div class="row">
+                    
+                <div class="col-md-4">
                     <div class="card border-0" style="background: rgba(0, 0, 0, 0);">
-                        <img src="./assets/img/normal_ebfgd5b 1.png" class="card-img-top shadow">
+                        <img src="<?php bloginfo('template_directory');?>/assets/img/normal_ebfgd5b 1.png" class="card-img-top shadow">
                         <div class="card-body">
                             <h4 class="">Formation professionnelle : des manuels pédagogiques présentés</h4> 
                             <a href="#" class="btn btn-link text-decoration-none fw-bold">Lire l’Article</a>
@@ -117,7 +119,7 @@
 
                 <div class="col-md-4">
                     <div class="card border-0" style="background: rgba(0, 0, 0, 0);">
-                        <img src="./assets/img/normal_ebfgd5b 1.png" class="card-img-top shadow">
+                        <img src="<?php bloginfo('template_directory');?>/assets/img/normal_ebfgd5b 1.png" class="card-img-top shadow">
                         <div class="card-body">
                             <h4 class="">Formation professionnelle : des manuels pédagogiques présentés</h4> 
                             <a href="#" class="btn btn-link text-decoration-none fw-bold">Lire l’Article</a>
@@ -127,17 +129,7 @@
 
                 <div class="col-md-4">
                     <div class="card border-0" style="background: rgba(0, 0, 0, 0);">
-                        <img src="./assets/img/normal_ebfgd5b 1.png" class="card-img-top shadow">
-                        <div class="card-body">
-                            <h4 class="">Formation professionnelle : des manuels pédagogiques présentés</h4> 
-                            <a href="#" class="btn btn-link text-decoration-none fw-bold">Lire l’Article</a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="card border-0" style="background: rgba(0, 0, 0, 0);">
-                        <img src="./assets/img/normal_ebfgd5b 1.png" class="card-img-top shadow">
+                        <img src="<?php bloginfo('template_directory');?>/assets/img/normal_ebfgd5b 1.png" class="card-img-top shadow">
                         <div class="card-body">
                             <h4 class="">Formation professionnelle : des manuels pédagogiques présentés</h4> 
                             <a href="#" class="btn btn-link text-decoration-none fw-bold">Lire l’Article</a>
