@@ -1,7 +1,7 @@
 <?php
 /* 
 
-Template Name: bourses national
+Template Name: bourses corperation
 
 */
 
@@ -27,7 +27,7 @@ get_header();
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-6">
-                <h1 class="text-white fw-bold text-center">Bourses National</h1>
+                <h1 class="text-white fw-bold text-center">Bourses Cooperation</h1>
             </div>
         </div>
     </div>

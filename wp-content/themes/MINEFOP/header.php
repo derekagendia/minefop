@@ -13,7 +13,7 @@
     <div class="page-header">
     <nav class="navbar navbar-expand-sm navbar-light bg-light">
         <div class="container">
-          <a class="navbar-brand" href="#"><img src="<?php bloginfo('template_directory');?>/assets/img/242715262_222822269883186_7487174932910845624_n 1 (1).png"></a>
+          <a class="navbar-brand" href="#"><img src="<?php bloginfo('template_directory');?>/assets/img/242715262_222822269883186_7487174932910845624_n 1 (1).png" style="height:40px; width:auto;"></a>
           <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavId" aria-controls="collapsibleNavId"
               aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
